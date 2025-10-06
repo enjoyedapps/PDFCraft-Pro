@@ -109,4 +109,4 @@ This Privacy Policy complies with:
 
 **Summary**: PDFCraft Pro processes all data locally in your browser. We do not collect, store, or transmit any personal information or file content. Your privacy is our priority.
 
-**Last Updated**: December 2024
+**Last Updated**: October 2025
