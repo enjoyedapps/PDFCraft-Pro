@@ -95,8 +95,7 @@ You have the right to:
 ## Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:
-- **Email**: privacy@pdfcraft-pro.com
-- **GitHub**: [https://github.com/pdfcraft-pro/pdf-plugin/issues](https://github.com/pdfcraft-pro/pdf-plugin/issues)
+- **Email**: enjoyedapp@gmail.com
 
 ## Compliance
 
